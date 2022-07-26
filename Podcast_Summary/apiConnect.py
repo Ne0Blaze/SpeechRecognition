@@ -7,8 +7,8 @@ import time
 
 
 #API token to connect and request 
-API_KEY_LISTENNOTES="929d25cf24e34626bd87bd62bf7bb413"
-API_KEY_ASSEMBLYAI= "11572bf615e44255ad4e12ec42cdb1cc"
+API_KEY_LISTENNOTES=""
+API_KEY_ASSEMBLYAI= ""
 
 
 #config endpoints and authorization
