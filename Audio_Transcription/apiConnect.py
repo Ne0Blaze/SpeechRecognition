@@ -4,7 +4,7 @@ import requests   #used to connect and request API
 import time
 
 #diclaring API token to  auth the request
-API_KEY_ASSEMBLYAI= "11572bf615e44255ad4e12ec42cdb1cc"
+API_KEY_ASSEMBLYAI= ""
 
 upload_endpoint= "https://api.assemblyai.com/v2/upload"
 transcript_endpoint= "https://api.assemblyai.com/v2/transcript"
